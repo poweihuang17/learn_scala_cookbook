@@ -1,7 +1,7 @@
 //When to use abstract class?
 //I don't understand why scala could cooperate with scala in a better way.
 //Trait couldn't get constructor argument
-//A class could extend only one abstract class.
+//A class could extend only one abstract class. Why?
 
 
 abstract class BaseController(db:Database){
